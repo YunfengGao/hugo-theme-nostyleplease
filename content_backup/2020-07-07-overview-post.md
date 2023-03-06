@@ -53,10 +53,10 @@ Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus 
 
 Now some code:
 
-{{< highlight javascript >}}
+```javascript
 const ultimateTruth = 'this theme is the best!';
 console.log(ultimateTruth);
-{{< / highlight >}}
+```
 
 And here is some `inline code`!
 
